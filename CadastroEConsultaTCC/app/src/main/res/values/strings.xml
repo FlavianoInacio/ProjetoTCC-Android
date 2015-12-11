@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CadastroEConsultaTCC</string>
+    <string name="action_settings">Lista</string>
+    <string name="title_activity_lista">ListaActivity</string>
+</resources>
